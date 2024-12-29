@@ -1,2 +1,2 @@
 # weather-app
-weather app using python API
+weather app using flask API
